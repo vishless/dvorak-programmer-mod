@@ -21,6 +21,6 @@ And add the following
     </configItem>
 </variant>
 ```
-To permanently set the layout
-Edit /etc/default/keyboard and set
-XKBVARIANT="real-prog-dvorak-mod"
+To permanently set the layout  
+Edit `/etc/default/keyboard` and set  
+`XKBVARIANT="real-prog-dvorak-mod"`
