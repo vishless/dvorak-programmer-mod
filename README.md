@@ -24,3 +24,9 @@ And add the following
 To permanently set the layout  
 Edit `/etc/default/keyboard` and set  
 `XKBVARIANT="real-prog-dvorak-mod"`
+```
+...
+XKBLAYOUT="us"
+XKBVARIANT="real-prog-dvorak-mod"
+...
+```
