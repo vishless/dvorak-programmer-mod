@@ -1,8 +1,6 @@
-This is a modified version of https://github.com/ThePrimeagen/keyboards. I changed to using numbers first instead of the symbols.
+This is a modified version of https://github.com/ThePrimeagen/keyboards.
 
 # Installation
-
-I couldn't get it to work by copying the layout file to `.config/xkb/`. Below steps worked.
 
 PLEASE MAKE A BACKUP OF THE FILES BEFORE EDITING
 
