@@ -45,8 +45,7 @@ xkb_symbols "real-prog-dvorak-mod" {
     key <AC10> { [          s,  S               ]       };
     key <AC11> { [      minus,  underscore      ]       };
 
-    //key <AB01> { [   apostrophe,        quotedbl, dead_ogonek, dead_doubleacute ] };
-    key <AB01> { [ apostrophe,      quotedbl,       dead_acute                  ] };
+    key <AB01> { [   apostrophe,        quotedbl, dead_ogonek, dead_doubleacute ] };
     key <AB02> { [          q,  Q               ]       };
     key <AB03> { [          j,  J               ]       };
     key <AB04> { [          k,  K               ]       };
