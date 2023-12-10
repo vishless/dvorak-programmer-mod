@@ -1,4 +1,4 @@
-This is a modified version of https://github.com/ThePrimeagen/keyboards
+This is a modified version of https://github.com/ThePrimeagen/keyboards. I changed to using numbers first instead of the symbols.
 
 # Installation
 
