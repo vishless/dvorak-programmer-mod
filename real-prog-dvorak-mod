@@ -18,8 +18,7 @@ xkb_symbols "real-prog-dvorak-mod" {
     key <AE09> { [          9, bracketright,  dead_grave] };
     key <AE10> { [          0, asterisk       ]       };
     key <AE11> { [ exclam,      percent ]       };
-    //key <AE12> { [ bar, grave,  dead_tilde] };
-    key <AE12> { [ numbersign,      grave,          dead_grave                  ] };
+    key <AE12> { [ bar, grave,  dead_tilde] };
 
     key <AD01> { [  semicolon,  colon, dead_acute, dead_diaeresis       ] };
     key <AD02> { [      comma,  less,   dead_cedilla, dead_caron        ] };
@@ -58,6 +57,5 @@ xkb_symbols "real-prog-dvorak-mod" {
     key <AB09> { [          v,  V               ]       };
     key <AB10> { [          z,  Z               ]       };
 
-    //key <BKSL> { [  backslash,  numbersign             ]       };
-    key <BKSL> { [ backslash,       bar                                         ] };
+    key <BKSL> { [  backslash,  numbersign             ]       };
 };
