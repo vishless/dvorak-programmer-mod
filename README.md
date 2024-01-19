@@ -25,6 +25,6 @@ Edit `/etc/default/keyboard` and set
 ```
 ...
 XKBLAYOUT="us"
-XKBVARIANT="real-prog-dvorak-mod"
+XKBVARIANT="rdvp"
 ...
 ```
