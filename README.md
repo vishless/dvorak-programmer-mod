@@ -13,7 +13,7 @@ And add the following
 ```
 <variant>
     <configItem>
-        <name>real-prog-dvorak-mod</name>
+        <name>rdvp</name>
         <description>English (Real Programmers Dvorak)</description>
         <vendor>MichaelPaulson</vendor>
     </configItem>
@@ -21,7 +21,7 @@ And add the following
 ```
 To permanently set the layout  
 Edit `/etc/default/keyboard` and set  
-`XKBVARIANT="real-prog-dvorak-mod"`
+`XKBVARIANT="rdvp"`
 ```
 ...
 XKBLAYOUT="us"
