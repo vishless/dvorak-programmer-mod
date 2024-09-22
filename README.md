@@ -20,8 +20,8 @@ And add the following
 </variant>
 ```
 To permanently set the layout  
-Edit `/etc/default/keyboard` and set  
-`XKBVARIANT="rdvp"`
+Edit `/etc/default/keyboard` and set the following
+
 ```
 ...
 XKBLAYOUT="us"
