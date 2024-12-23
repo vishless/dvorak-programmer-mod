@@ -22,7 +22,7 @@ xkb_symbols "rdvp" {
     //key <AE12> { [ bar, grave,  dead_tilde] };
     key <AE12> { [ numbersign,      grave,          dead_grave                  ] };
 
-    key <AD01> { [  semicolon,  colon, dead_acute, dead_diaeresis       ] };
+    key <AD01> { [   apostrophe,        quotedbl, dead_ogonek, dead_doubleacute ] };
     key <AD02> { [      comma,  less,   dead_cedilla, dead_caron        ] };
     key <AD03> { [      period, greater, dead_abovedot, periodcentered  ] };
     key <AD04> { [          p,  P               ]       };
@@ -47,7 +47,7 @@ xkb_symbols "rdvp" {
     key <AC10> { [          s,  S               ]       };
     key <AC11> { [      minus,  underscore      ]       };
 
-    //key <AB01> { [   apostrophe,        quotedbl, dead_ogonek, dead_doubleacute ] };
+    //key <AB01> { [  semicolon,  colon, dead_acute, dead_diaeresis       ] };
     key <AB01> { [ apostrophe,      quotedbl,       dead_acute                  ] };
     key <AB02> { [          q,  Q               ]       };
     key <AB03> { [          j,  J               ]       };
